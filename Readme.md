@@ -22,7 +22,7 @@
 
 11. a program to implement Miller Rabin Primality Test to declare whether a given integer is in a composite or probable prime
 
-12. a program to compute modular Exponentaion i.e. x^y mod p iteratively
+12. a C program to compute modular Exponentaion i.e. x^y mod p iteratively
 
 13. a program to implement Diffie Hellman Key Exchange Protocol to establish a symmetric key
 
