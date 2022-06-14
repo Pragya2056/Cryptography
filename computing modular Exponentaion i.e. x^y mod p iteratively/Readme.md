@@ -1,1 +1,1 @@
-a program in C to compute modular Exponentaion i.e. x^y mod p iteratively
+### a program in C to compute modular Exponentaion i.e. x^y mod p iteratively
