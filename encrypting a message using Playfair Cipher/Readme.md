@@ -1,1 +1,1 @@
-### a program in C++ to encrypt a given message using Playfair Cipher
+### [a program in C++ to encrypt a given message using Playfair Cipher](https://github.com/Pragya2056/Cryptography/blob/master/encrypting%20a%20message%20using%20Playfair%20Cipher/Index.cpp)

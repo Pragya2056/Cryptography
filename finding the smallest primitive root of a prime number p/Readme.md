@@ -1,1 +1,1 @@
-### a program in C to find the smallest primitive root of a prime number p
+### [a program in C to find the smallest primitive root of a prime number p](https://github.com/Pragya2056/Cryptography/blob/master/finding%20the%20smallest%20primitive%20root%20of%20a%20prime%20number%20p/Index.cpp)

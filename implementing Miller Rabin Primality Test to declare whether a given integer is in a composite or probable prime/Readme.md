@@ -1,1 +1,1 @@
-### a program in C to implement Miller Rabin Primality Test to declare whether a given integer is in a composite or probable prime
+### [a program in C to implement Miller Rabin Primality Test to declare whether a given integer is in a composite or probable prime](https://github.com/Pragya2056/Cryptography/blob/master/implementing%20Miller%20Rabin%20Primality%20Test%20to%20declare%20whether%20a%20given%20integer%20is%20in%20a%20composite%20or%20probable%20prime/Index.cpp)

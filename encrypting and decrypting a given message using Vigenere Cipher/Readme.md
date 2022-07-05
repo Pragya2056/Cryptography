@@ -1,1 +1,1 @@
-### a program in C to encrypt and decrypt a given message using Vigenere Cipher
+### [a program in C to encrypt and decrypt a given message using Vigenere Cipher](https://github.com/Pragya2056/Cryptography/blob/master/encrypting%20and%20decrypting%20a%20given%20message%20using%20Vigenere%20Cipher/Index.cpp)

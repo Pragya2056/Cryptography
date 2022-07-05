@@ -1,1 +1,1 @@
-### a program in C to implement the Euclidean algorithm to find the GCD of two integers
+### [a program in C to implement the Euclidean algorithm to find the GCD of two integers](https://github.com/Pragya2056/Cryptography/blob/master/implementing%20the%20Euclidean%20algorithm%20to%20find%20the%20GCD%20of%20two%20integers/Index.cpp)

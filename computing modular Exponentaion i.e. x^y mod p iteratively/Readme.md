@@ -1,1 +1,1 @@
-### a program in C to compute modular Exponentaion i.e. x^y mod p iteratively
+### [a program in C to compute modular Exponentaion i.e. x^y mod p iteratively](https://github.com/Pragya2056/Cryptography/blob/master/computing%20modular%20Exponentaion%20i.e.%20x%5Ey%20mod%20p%20iteratively/Index.cpp)
