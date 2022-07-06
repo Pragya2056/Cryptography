@@ -1,6 +1,6 @@
 ### Some Basic Cryptography programs in C++
 
-1. [a program to encrypt and decrypt a given message using Caesar Cipher](https://github.com/Pragya2056/Cryptography/blob/master/encrpytion%20and%20decryption%20of%20message%20using%20Caesar%20Cipher/Index.cpp)
+1. [a program to encrypt and decrypt a given message using Caesar Cipher](./https://github.com/Pragya2056/Cryptography/blob/master/encrpytion%20and%20decryption%20of%20message%20using%20Caesar%20Cipher/Index.cpp)
 
 2. [a program to encrypt a message using a monoalphabetic substitution cipher](https://github.com/Pragya2056/Cryptography/blob/master/encrypting%20a%20message%20using%20monoalphabetic%20substitution%20cipher/Index.cpp)
 
